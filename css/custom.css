@@ -1,0 +1,62 @@
+.tabs-btn.active:nth-child(1) {
+    border-top-color: #18bb7c;
+    color: black;
+    background-color: #ffffff;
+}
+.tabs-btn.active:nth-child(2) {
+    border-top-color: #f9cb8f;
+    color: black;
+    background-color: #ffffff;
+}
+.tabs-btn.active:nth-child(3) {
+    border-top-color: #f27c66;
+    color: black;
+    background-color: #ffffff;
+}
+.tabs-btn.active:nth-child(4) {
+    border-top-color: #18bb7c;
+    color: black;
+    background-color: #ffffff;
+}
+.tabs-btn.active:nth-child(5) {
+    border-top-color: #f9cb8f;
+    color: black;
+    background-color: #ffffff;
+}
+.tabs-btn.active:nth-child(6) {
+    border-top-color: #f27c66;
+    color: black;
+    background-color: #ffffff;
+}
+
+/* active tab hover */
+.tabs-btn:hover:nth-child(1) {
+    border-top-color: #18bb7c;
+    color: white;
+    background-color: #18bb7c;
+}
+.tabs-btn:hover:nth-child(2) {
+    border-top-color: #f9cb8f;
+    color: white;
+    background-color: #f9cb8f;
+}
+.tabs-btn:hover:nth-child(3) {
+    border-top-color: #f27c66;
+    color: white;
+    background-color: #f27c66;
+}
+.tabs-btn:hover:nth-child(4) {
+    border-top-color: #18bb7c;
+    color: white;
+    background-color: #18bb7c;
+}
+.tabs-btn:hover:nth-child(5) {
+    border-top-color: #f9cb8f;
+    color: white;
+    background-color: #f9cb8f;
+}
+.tabs-btn:hover:nth-child(6) {
+    border-top-color: #f27c66;
+    color: white;
+    background-color: #f27c66;
+}
